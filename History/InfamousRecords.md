@@ -1,7 +1,7 @@
 # Infamous Leauge Records
 
 ### Largest Losing Streak
-* Jama (12 games) - 2018
+* Jama (10 games) - 2018
 
 ### Worst Regular Season Record
 * Jama (2-12) - 2018
