@@ -1,4 +1,4 @@
-# Fantasy Football Official Contract
+# Fantasy Football Official Constitution
 
 ## League Configuration
 * Teams: 12	
