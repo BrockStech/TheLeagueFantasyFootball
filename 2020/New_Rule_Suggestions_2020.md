@@ -4,3 +4,4 @@
 2. League winner picks locations of the next seasons draft (reasonable distance and cost).
 3. League winner picks the Sacko's meal before the case race.
 4. Add an IR spot (COVID).
+5. HASU included with league fees
