@@ -70,6 +70,7 @@
 ## Draft Order
 * (7th – 10th, 5th, 6th, 4th, 3rd, 2nd, 1st, 11th, 12th) 
 * 9th place gets to pick what marker they want.
+* Keeper must be selected before draft positions are selected.
 
 ## Case Race
 * Tacos vs Nachos.	
