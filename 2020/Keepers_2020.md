@@ -3,6 +3,7 @@
 | Team  | Keeper         | Round |
 | ----- | -------------- | ----- |
 | Zach  | Saquon Barkley | 1     |
+| Shmoop| Ezekiel Elliott| 1     |
 | Brock | Alvin Kamara   | 3     |
 | Divey | Derrick Henry  | 4     |
 | Krep  | Miles Sanders  | 6     |
