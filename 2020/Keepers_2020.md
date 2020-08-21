@@ -6,4 +6,4 @@
 | Zach  | Saquon Barkley | 1 |
 | Luke | Lamar Jackson | 15 |
 | Jama | Terry McLaurin | ? |
-| Mancz | Dionte Johnson | ? |
+| Mancz | A.J. Brown | 15 |
