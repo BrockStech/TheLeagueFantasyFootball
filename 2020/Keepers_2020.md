@@ -4,6 +4,7 @@
 | ----- | -------------- | ----- |
 | Zach  | Saquon Barkley | 1     |
 | Brock | Alvin Kamara   | 3     |
+| Divey | Derrick Henry  | 4     |
 | Krep  | Miles Sanders  | 6     |
 | Bingo | D.K. Metcalf   | 10    |
 | Shatz | Russell Wilson | 11    |
