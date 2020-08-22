@@ -11,8 +11,9 @@
 ## Payout
 * First: $450	
 * Second: $100 
-* Third: $50	
+* Regular Season Winner: $50	
 * Last: Sacko + team name determined by winner (3 weeks)
+* Last: Meal before case race is chosen by league winner (must be within reason)
 
 ## Scoring
 * Passing
@@ -68,7 +69,7 @@
 * Home field advantage: 3pts (Winner & Loser Bracket).
   * No home field advantage in Shiva or Sacko.
 ## Draft Order
-* (7th – 10th, 5th, 6th, 4th, 3rd, 2nd, 1st, 11th, 12th) 
+* (7th – 10th, 5th, 6th, 3rd, 4th, 2nd, 1st, 11th, 12th) 
 * 9th place gets to pick what marker they want.
 * Keeper must be selected before draft positions are selected.
 
