@@ -82,7 +82,7 @@
 
 ## Other
 * Draft pick trades – Can’t trade first or second round draft picks.
-* Teams will receive 1 point for a win and 1 point for scoring above the league median. 
+* Teams will receive 1 point for a win and 0.5 points for scoring above the league median. 
 * Tie breaker - record > points for > h2h 
 * Schedule – 13th game will rotate each year from the opposing division.
 
