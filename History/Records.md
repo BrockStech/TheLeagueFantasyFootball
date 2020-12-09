@@ -13,4 +13,4 @@
 * Shatz (12-2) - 2014
 
 ### Highest Regular Season Record (League Median)
-* Shmoop (14.5) - 2019
+* Divey (16.5) - 2020
