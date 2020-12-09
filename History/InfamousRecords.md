@@ -9,6 +9,10 @@
 * Mancz (2-12) - 2017
 * Krep (2-12) - 2015
 
+### Worst Regular Season Record(League Median)
+* Mancz (4.0) - 2019
+* Shmoop (4.0) - 2020
+
 ### Least Amount of Points Scored In A Season
 * Jama (1,259.54) - 2015
 * Shmoop (1,461.34) - 2020
