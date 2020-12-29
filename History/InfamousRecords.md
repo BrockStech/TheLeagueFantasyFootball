@@ -1,8 +1,8 @@
 # Infamous Leauge Records
 
 ### Largest Losing Streak
-* Shmoop (10 games) - 2020
-* Jama (10 games) - 2018
+* Shmoop (12 games) - 2020
+* Jama (12 games) - 2018
 
 ### Worst Regular Season Record
 * Jama (2-12) - 2018
