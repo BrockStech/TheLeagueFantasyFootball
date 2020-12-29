@@ -1,5 +1,6 @@
 Year|Champion|Record|Playoff Seed
 ----|--------|------|------------
+2020|Brock|13.5|3
 2019|Brock|8-5|4
 2018|Mancz|9-5|2
 2017|Shatz|9-5|1
