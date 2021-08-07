@@ -4,8 +4,7 @@
 * Teams: 12	
 * Divisions: 2	
 * Cost: $50	
-* Draft Order: Results from last season	
-* Rivalry Week: Week 3
+* Draft Order: Results from yearly event (TBD each year)
 * Keepers: 1 - The keeper will take the draft spot which they were drafted the previous year. If this player is chosen as the keeper for 2 straight year’s, he will take up half the draft spot of the previous year (Round Down). ADP + 7 rounds for undrafted players. “Dibs” rule – last pick in the draft is a possible keeper for next year.
 
 ## Payout
@@ -41,6 +40,7 @@
 * Kick/Punt Return TD: 6pts
 * 2-Point Conversion: 2pts
 * Kicking
+  * ONCE WE MOVE TO SLEEPER KICKER SCORING WILL BE .1 PTS PER YARD FOR MADE FIELD GOALS
   * PAT: 1pt
   * 0-39: 3pts
   * 40-49: 4pts
@@ -70,8 +70,19 @@
   * No home field advantage in Shiva or Sacko.
 ## Draft Order
 * (7th – 10th, 5th, 6th, 3rd, 4th, 2nd, 1st, 11th, 12th) 
+  * 1st pick gets first dibs for which player/horse/ect they want in that years event
+  * The event results determines the draft order
 * 9th place gets to pick what marker they want.
-* Keeper must be selected before draft positions are selected.
+
+## Schedules
+* Revenge Week
+  * Week 1
+  * Rotate each year based on final league standings (Opposing division).
+* Outer Division Rivalry Week
+  * Week 3
+  * Set your opponent's flex positions. Can't set injured players in the lineup.
+* Inner Division Rivalry Week
+  * Week 7 
 
 ## Case Race
 * Tacos vs Nachos.	
@@ -80,11 +91,11 @@
 * X amount will be determined year to year.
 
 ## Other
+* We will be moving to SLEEPER when available.
 * Draft pick trades – Can’t trade first or second round draft picks.
 * Teams will receive 1 point for a win and 0.5 points for scoring above the league median. 
 * Standings tie breaker - record > points for > h2h 
-* Matchup tie breaker - Starting player with the most fantasy points (h2h or league median)
-* Schedule – 13th game will rotate each year based on final league standings (Opposing division).
+* Matchup tie breaker - Starting player with the most fantasy points (h2h or league median).
 
 ### Collusion is prohibited! 
 
