@@ -2,8 +2,8 @@
 
 | Team  | Keeper            | Round |
 | ----- | ----------------  | ----- |
-| Shmoop| Ezekiel Elliott   | 1     |
 | Shawn | CMC               | 1     |
+| Shmoop| Ezekiel Elliott   | 1     |
 | Divey | Calvin Ridley     | 4     |
 | Bingo | D.K. Metcalf      | 5     |
 | Gavin | Darren Waller     | 6     |
