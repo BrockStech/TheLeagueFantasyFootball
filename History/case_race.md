@@ -1,13 +1,13 @@
 # Case Race
 
 # 2021
-Nachos [30 - 29]
+Nachos [30 - 29] 26 minutes
 
 # 2020
 Tacos (COVID power hour) 
 
 # 2019
-Tacos
+Nachos [36 - 28] 19 minutes
 
 # 2018
-Nachos
+tacos [36 - 33]
