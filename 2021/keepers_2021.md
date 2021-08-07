@@ -2,6 +2,10 @@
 
 | Team  | Keeper            | Round |
 | ----- | ----------------  | ----- |
+| Shmoop| Ezekiel Elliott   | 1     |
+| Shawn | CMC               | 1     |
+| Divey | Calvin Ridley     | 4     |
+| Bingo | D.K. Metcalf      | 5     |
 | Gavin | Darren Waller     | 6     |
 | Jama  | Terry McLaurin    | 6     |
 | Brock | A.J. Brown        | 7     |
@@ -9,8 +13,4 @@
 | Shatz | J.K. Dobbins      | 8     |
 | Mancz | Darnell Henderson | 9     |
 | Zach  | Justin Jefferson  | 9     |
-| Shmoop| ????????          | ?     |
-| Shawn | ????????          | ?     |
-| Divey | ????????          | ?     |
-| Bingo | ????????          | ?     |
-| Luke  | ????????          | ?     |
+| Luke  | Chase Edmonds     |11     |
