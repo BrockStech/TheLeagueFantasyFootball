@@ -4,6 +4,6 @@
 * Bingo receives 7th round pick
 * Shatz receives 4th round pick
 
-### Shmmop & Brock
+### Shmoop & Brock
 * Shmoop receives 4th round pick
 * Brock receives 11th round pick
