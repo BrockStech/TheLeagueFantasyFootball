@@ -1,7 +1,7 @@
 # Infamous Leauge Records
 
 ### Largest Losing Streak
-* Bingo (14 games) - 2021 ** still active
+* Bingo (15 games) - 2021
 * Shmoop (12 games) - 2020
 * Jama (12 games) - 2018
 
