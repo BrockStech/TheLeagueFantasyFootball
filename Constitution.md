@@ -40,11 +40,9 @@
 * Kick/Punt Return TD: 6pts
 * 2-Point Conversion: 2pts
 * Kicking
-  * ONCE WE MOVE TO SLEEPER KICKER SCORING WILL BE .1 PTS PER YARD FOR MADE FIELD GOALS
+  * Field Goal: 3pts  
+  * 0.1 pts per yard over 30 yards
   * PAT: 1pt
-  * 0-39: 3pts
-  * 40-49: 4pts
-  * 50+: 5pts
   * Missed PAT or 0-19 yard kick: -3pts
 * Defense/Special Team
   * Sack: 1pt
@@ -84,18 +82,17 @@
 * Inner Division Rivalry Week
   * Week 7 
 
-## Case Race
+## xxxxxx
 * Tacos vs Nachos.	
-* First to finish x amount of beers. 
-* Winning team gets point advantage corresponding to amount of beers won by during rivalry week (Max of 8 - or `lock' a player). 
-* X amount will be determined year to year.
+* Winning team gets point(s) advantage during rivalry week (Max of 8 - or `lock' a player). 
 
 ## Other
-* We will be moving to SLEEPER when available.
 * Draft pick trades – Can’t trade first or second round draft picks.
 * Teams will receive 1 point for a win and 0.5 points for scoring above the league median. 
-* Standings tie breaker - record > points for > h2h 
+* Standings tie breaker - record > points for > h2h. 
 * Matchup tie breaker - Starting player with the most fantasy points (h2h or league median).
+* The lowest scorer each week must shotgun a beer then give a matchups prediction before the Thursday Night game.
+* Punishment if you fail to set your lineup.
 
 ### Collusion is prohibited! 
 
