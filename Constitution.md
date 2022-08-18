@@ -82,13 +82,13 @@
 * Inner Division Rivalry Week
   * Week 7 
 
-## xxxxxx
+## Beerio Kart
 * Tacos vs Nachos.	
 * Winning team gets point(s) advantage during rivalry week (Max of 8 - or `lock' a player). 
 
 ## Other
 * Draft pick trades – Can’t trade first or second round draft picks.
-* Teams will receive 1 point for a win and 0.5 points for scoring above the league median. 
+* Teams will receive 1 point for a win and 1 point for scoring above the league median. 
 * Standings tie breaker - record > points for > h2h. 
 * Matchup tie breaker - Starting player with the most fantasy points (h2h or league median).
 * The lowest scorer each week must shotgun a beer then give a matchups prediction before the Thursday Night game.
