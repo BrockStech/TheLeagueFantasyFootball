@@ -5,7 +5,7 @@
 * Divisions: 2	
 * Cost: $50	
 * Draft Order: Results from yearly event (TBD each year)
-* Keepers: 1 - The keeper will take the draft spot which they were drafted the previous year. If this player is chosen as the keeper for 2 straight year’s, he will take up half the draft spot of the previous year (Round Down). ADP + 7 rounds for undrafted players. “Dibs” rule – last pick in the draft is a possible keeper for next year.
+* Keepers: 1 - The keeper will take the draft spot which they were drafted the previous year. If this player is chosen as the keeper for 2 straight year’s, he will take up half the draft spot of the previous year (Round Down). ADP + 7 rounds for undrafted players. If a player is out for entire season before the draft, the drafted player cannot be a keeper the following year. 
 
 ## Payout
 * First: $450	
@@ -70,7 +70,6 @@
 * (7th – 10th, 5th, 6th, 3rd, 4th, 2nd, 1st, 11th, 12th) 
   * 1st pick gets first dibs for which player/horse/ect they want in that years event
   * The event results determines the draft order
-* 9th place gets to pick what marker they want.
 
 ## Schedules
 * Revenge Week
