@@ -1,5 +1,6 @@
 Year|Sacko|Record|Punishment
 ----|-----|------|----------
+2022|Luke|13-15|Stuffed Animal Dinner Date
 2021|Jama|4-10|Shoey
 2020|Luke|3-10|League DD
 2019|Mancz|3-10|Tomatoed
