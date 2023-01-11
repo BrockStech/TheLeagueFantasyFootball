@@ -2,4 +2,4 @@
 
 ### Shmoop & Jama
 * Shmoop receives 4th round pick
-* Brock receives 16th round pick
+* Jama receives 16th round pick
