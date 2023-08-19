@@ -2,7 +2,7 @@
 
 ## Nachos
 * Krep vs Shmoop
-* Jama vs Zach
+* Jama vs Nick
 * Divey vs Shatz
 
 ## Tacos
