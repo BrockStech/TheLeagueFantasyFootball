@@ -5,4 +5,4 @@
 * Shatz vs Shawn
 * Gavin vs Shmoop
 * Mancz vs Divey
-* Bingo vs Zach
+* Bingo vs Nick
