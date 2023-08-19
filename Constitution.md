@@ -79,10 +79,6 @@
 * Inner Division Rivalry Week
   * Week 7 
 
-## Beerio Kart
-* Tacos vs Nachos.	
-* Winning team gets point(s) advantage during rivalry week (Max of 8 - or `lock' a player). 
-
 ## Other
 * Draft pick trades – Can’t trade first or second round draft picks.
   * One trade giving or receiving pick 3 - 9.
