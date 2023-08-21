@@ -93,7 +93,7 @@
   * Last minute scratch doesn't count.
 * Keepers are selected before draft spots are selected.
 * If a game ends prematurely fantasy points will be calculated as follows.
-  * current_points_scored + (minutes_left_in_game / 60 * average_points_per_game)
+  * current_points_scored + (seconds_left_in_game / 3600 * average_points_per_game)
   * Cancelled games are subject to the same rules if there is no option to sub in another fantasy player. (i.e. last game of the week is cancelled).
 
 ### Collusion is prohibited! 
