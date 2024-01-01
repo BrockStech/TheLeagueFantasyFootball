@@ -1,5 +1,6 @@
 Year|Champion|Record|Playoff Seed
 ----|--------|------|------------
+2023|Gavin|20-8|2
 2022|Gavin|19-9|2
 2021|Brock|12-2|1
 2020|Brock|9-3-1|3
