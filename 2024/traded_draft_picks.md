@@ -1,6 +1,6 @@
 ## Shatz and Jama
 - Shatz receives 2024 7th
-- Jama receives 2024 17th (THIS IS WRONG IN APP AND NEEDS FIXED)
+- Jama receives 2024 17th
 
 ## Tom and Luke
 - Tom receives 2024 4th
