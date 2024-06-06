@@ -1,0 +1,12 @@
+1. Barnes
+2. Divey
+3. Brock
+4. Bingo
+5. Mancz
+6. Shmoop
+7. Shawn
+8. Shatz
+9. Luke
+10. Gavin
+11. Krep
+12. Jama
