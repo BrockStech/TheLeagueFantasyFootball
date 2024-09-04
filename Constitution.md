@@ -5,7 +5,7 @@
 * Divisions: 2	
 * Cost: $50	
 * Draft Order: Results from yearly event (TBD each year)
-* Keepers: 1 - The keeper will take the draft spot which they were drafted the previous year. If this player is chosen as the keeper for 2 straight year’s, he will take up half the draft spot of the previous year (Round Down). ADP + 7 rounds for undrafted players. If a player is out for entire season before the draft, the drafted player cannot be a keeper the following year. 
+* Keepers: 1 - The keeper will take the draft spot which they were drafted the previous year. If this player is chosen as the keeper for 2 straight year’s, he will take up half the draft spot of the previous year (Round Down). ADP + 7 rounds for undrafted players. If a player is out for entire season before the draft, the drafted player cannot be a keeper the following year. A player can be used as a keeper for a maximum of 3 years (players draft in 2023 or before are 'grandfathered in' and can be kept for eternity.
 
 ## Payout
 * First: $500 + penalty fees 
@@ -22,6 +22,7 @@
   * 50+ yard passing td: 2pt bonus
 * Rushing
   * 10 rushing yards per point
+  * 1/2pt per first down
   * Rushing TD: 6pts
   * Fumble (defense recovers): -2pts
   * 100-199 rushing yards: 2pt bonus
@@ -29,6 +30,8 @@
   * 50+ yard rushing td: 2pt bonus
 * Receiving 
   * PPR: 1/2pt
+  * 1/2pt per first down
+  * Extra 1/2pt for each TE reception
   * 10 receiving yards per point
   * Receiving TD: 6pts
   * Fumble (defense recovers): -2
