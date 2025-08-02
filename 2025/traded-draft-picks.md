@@ -1,3 +1,3 @@
 ## Shmoop and Jama
-- Shmoop receives n/a
-- Jama receives 2025 3rd
+- Shmoop receives 2025 3rd
+- Jama receives n/a
