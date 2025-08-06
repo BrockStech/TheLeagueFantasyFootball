@@ -1,5 +1,6 @@
 Year|Champion|Record|Playoff Seed
 ----|--------|------|------------
+2024|Shatz|15-13|5
 2023|Gavin|20-8|2
 2022|Gavin|19-9|2
 2021|Brock|12-2|1
