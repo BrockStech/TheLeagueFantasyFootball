@@ -2,9 +2,9 @@
 
 Team|Number of Rings
 ----|---------------
+Shatz|3
 Brock|3
 Gavin|2
 Luke |2
-Shatz|2
 Jama |1
 Mancz|1
