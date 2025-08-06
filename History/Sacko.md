@@ -1,5 +1,6 @@
 Year|Sacko|Record|Punishment
 ----|-----|------|----------
+2024|Barnes|12-16|Pizza Boy
 2023|Jama|5-23|Magic Tree House Essay
 2022|Luke|13-15|Stuffed Animal Dinner Date
 2021|Jama|4-10|Shoey
