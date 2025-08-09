@@ -3,13 +3,13 @@
 ## League Configuration
 * Teams: 12	
 * Divisions: 2	
-* Cost: $50	
+* Cost: $100	
 * Draft Order: Results from yearly event (TBD each year)
 * Keepers: 1 - The keeper will take the draft spot which they were drafted the previous year. If this player is chosen as the keeper for 2 straight year’s, he will take up half the draft spot of the previous year (Round Down). ADP + 7 rounds for undrafted players. If a player is out for entire season before the draft, the drafted player cannot be a keeper the following year. A player can be used as a keeper for a maximum of 3 years (players draft in 2023 or before are 'grandfathered in' and can be kept for eternity.
 
 ## Payout
-* First: $500 + penalty fees 
-* Second: $100 
+* First: $1000 + penalty fees 
+* Second: $200 
 * Last: Sacko + team name determined by winner (3 weeks)
 
 ## Scoring
@@ -98,6 +98,7 @@
 * If a game ends prematurely fantasy points will be calculated as follows.
   * current_points_scored + (seconds_left_in_game / 3600 * average_points_per_game)
   * Cancelled games are subject to the same rules if there is no option to sub in another fantasy player. (i.e. last game of the week is cancelled).
+* League dues are due upfront! Mancz is treasurer.
 
 ### Collusion is prohibited! 
 
