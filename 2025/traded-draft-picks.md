@@ -2,7 +2,7 @@
 - Shmoop receives 2026 3rd
 - Jama receives N/A
 
-# Krep and Divey
+## Krep and Divey
 - Krep receives 2026 3rd
 - Divey receives 2026 12th
 
