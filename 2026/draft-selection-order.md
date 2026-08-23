@@ -12,19 +12,19 @@
 11. Krep - Gotterup
 12. BarnesZ - Si Woo (shake that a**) Kim
 
-# Draft Pick Selection Order / 2026 BMW Championship Results
+# 2026 BMW Championship Draft Pick Results
 
-| Player | Golfer | Score |
-| ------ | ------ | ----- |
-| Jama | Wyndham Clark | -17 |
-| Shawn | Rory McIlroy | -12 |
-| Krep | Gotterup | -11 |
-| Mancz | Scottie Scheffler | -5 |
-| Brock | Ludvig Åberg | -5 |
-| Gavin | Cameron Young | -5 |
-| Divey | Sam Burns | -4 |
-| Bingo | Matt Fitzpatrick | -4 |
-| Shmoop | Schauffele | -3 |
-| Shatz | Rickie Fowler | -1 |
-| BarnesZ | Si Woo Kim | -1 |
-| Luke | Tommy Fleetwood | +2 |
+| Pick | Player | Golfer | Score | Sunday |
+|---:|---|---|---:|---:|
+| 1 | Jama | Wyndham Clark | -17 | 70 |
+| 2 | Shawn | Rory McIlroy | -13 | 69 |
+| 3 | Krep | Chris Gotterup | -12 | 69 |
+| 4 | Mancz | Scottie Scheffler | -7 | 68 |
+| 5 | Brock | Ludvig Åberg | -6 | 69 |
+| 6 | Shmoop | Xander Schauffele | -4 | 69 |
+| 7 | Divey | Sam Burns | -3 | 71 |
+| 7 | Bingo | Matt Fitzpatrick | -3 | 71 |
+| 9 | BarnesZ | Si Woo Kim | -2 | 69 |
+| 10 | Shatz | Rickie Fowler | -1 | 70 |
+| 11 | Gavin | Cameron Young | -1 | 74 |
+| 12 | Luke | Tommy Fleetwood | +2 | 70 |
