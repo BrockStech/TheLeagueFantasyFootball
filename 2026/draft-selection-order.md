@@ -13,6 +13,18 @@
 12. BarnesZ - Si Woo (shake that a**) Kim
 
 # Draft Pick Selection Order / 2026 BMW Championship Results
-Player             | Golfer            | Score
------------------- | ----------------- | ------
 
+| Player | Golfer | Score |
+| ------ | ------ | ----- |
+| Jama | Wyndham Clark | -17 |
+| Shawn | Rory McIlroy | -12 |
+| Krep | Gotterup | -11 |
+| Mancz | Scottie Scheffler | -5 |
+| Brock | Ludvig Åberg | -5 |
+| Gavin | Cameron Young | -5 |
+| Divey | Sam Burns | -4 |
+| Bingo | Matt Fitzpatrick | -4 |
+| Shmoop | Schauffele | -3 |
+| Shatz | Rickie Fowler | -1 |
+| BarnesZ | Si Woo Kim | -1 |
+| Luke | Tommy Fleetwood | +2 |
