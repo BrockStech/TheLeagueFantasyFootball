@@ -82,7 +82,7 @@
   * Week 7 
 
 ## Other
-* Draft Pick Trades
+### Draft Pick Trades
 * First and second round picks may not be traded.
 * Each team may make up to two draft-pick trades:
     * One trade involving a pick in rounds 3 through 9
