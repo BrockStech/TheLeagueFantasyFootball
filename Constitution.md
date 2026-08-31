@@ -5,7 +5,16 @@
 * Divisions: 2	
 * Cost: $100	
 * Draft Order: Results from yearly event (TBD each year)
-* Keepers: 1 - The keeper will take the draft spot which they were drafted the previous year. If this player is chosen as the keeper for 2 straight year’s, he will take up half the draft spot of the previous year (Round Down). ADP + 7 rounds for undrafted players. If a player is out for entire season before the draft, the drafted player cannot be a keeper the following year. A player can be used as a keeper for a maximum of 3 years (players draft in 2023 or before are 'grandfathered in' and can be kept for eternity.
+
+## Keepers
+* Each team may designate one (1) keeper.
+* A keeper will cost the draft pick corresponding to the round in which they were drafted the previous season.
+* If a player is kept for a second consecutive year, their draft cost will improve by half the previous year’s round cost, rounded down. For example, a player kept at the cost of a 10th-round pick would cost a 5th-round pick the following year.
+* Players who were undrafted will cost a draft pick equal to their current ADP plus 7 rounds.
+* If a player is officially ruled out for the entire upcoming season prior to the draft, that player may not be selected as a keeper the following year.
+* A player may be kept for a maximum of three (3) years.
+* Keepers must be officially declared at least seven (7) days before the draft. Failure to declare a keeper by the deadline will result in the forfeiture of that team’s keeper for that season.
+* Injury Exception: If a declared keeper suffers a significant injury or is placed on season-ending injured reserve during the seven-day period between the keeper deadline and the draft, the owner may replace that keeper with another eligible player. The replacement keeper must still follow all normal keeper draft-cost rules. Any injury exception is subject to commissioner approval.
 
 ## Payout
 * First: $1000 + penalty fees 
