@@ -9,7 +9,6 @@
 ## Payout
 * First: $1000 + penalty fees 
 * Second: $200 
-* Last: Sacko + team name determined by winner (3 weeks)
 
 ## Keepers
 * Each team may designate one (1) keeper.
