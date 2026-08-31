@@ -6,6 +6,11 @@
 * Cost: $100	
 * Draft Order: Results from yearly event (TBD each year)
 
+## Payout
+* First: $1000 + penalty fees 
+* Second: $200 
+* Last: Sacko + team name determined by winner (3 weeks)
+
 ## Keepers
 * Each team may designate one (1) keeper.
 * A keeper will cost the draft pick corresponding to the round in which they were drafted the previous season.
@@ -15,11 +20,6 @@
 * A player may be kept for a maximum of three (3) years.
 * Keepers must be officially declared at least seven (7) days before the draft. Failure to declare a keeper by the deadline will result in the forfeiture of that team’s keeper for that season.
 * Injury Exception: If a declared keeper suffers a significant injury or is placed on season-ending injured reserve during the seven-day period between the keeper deadline and the draft, the owner may replace that keeper with another eligible player. The replacement keeper must still follow all normal keeper draft-cost rules. Any injury exception is subject to commissioner approval.
-
-## Payout
-* First: $1000 + penalty fees 
-* Second: $200 
-* Last: Sacko + team name determined by winner (3 weeks)
 
 ## Scoring
 * Passing
