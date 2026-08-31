@@ -78,15 +78,15 @@
   * Rotate each year based on final league standings (Opposing division).
 * Outer Division Rivalry Week
   * Week 3
-  * Set your opponent's flex positions. Can't set injured players in the lineup.
 * Inner Division Rivalry Week
   * Week 7 
 
 ## Other
-* Draft pick trades – Can’t trade first or second round draft picks.
-  * One trade giving or receiving pick 3 - 9.
-  * One trade giving or receiving pick 10 - last pick.
-  * Cannot obtain or trade away more than one pick from each "group".
+* Draft Pick Trades
+* First and second round picks may not be traded.
+* Each team may make up to two draft-pick trades:
+    * One trade involving a pick in rounds 3 through 9
+    * One trade involving a pick from round 10 through the final round
 * Teams will receive 1 point for a win and 1 point for scoring above the league median. 
 * Standings tie breaker - record > points for > h2h. 
 * Matchup tie breaker - Starting player with the most fantasy points (h2h or league median).
